@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalsaniya
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently Learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on some basic JavaScript, HTML, CSS, Python, Django projects etc.
+- 💞️ I’m looking to collaborate on some basic JavaScript, HTML, CSS, JavaScript, ReactJS, Python, Django projects etc.
 - 📫 How to reach me gurmeetsingh6175@gmail.com
 
 <!---
