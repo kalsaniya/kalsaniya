@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on some basic JavaScript, HTML, CSS, JavaScript, ReactJS, Python, Django projects etc.
 - 📫 How to reach me gurmeetsingh6175@gmail.com
 - 📫 LinkedIn : gurmeet-singh-1ab8691a9
+- Address : Meerut Uttar Pradesh.
 
 <!---
 kalsaniya/kalsaniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
