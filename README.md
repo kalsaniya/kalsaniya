@@ -3,7 +3,7 @@
 - 🌱 I’m currently Learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on some basic JavaScript, HTML, CSS, JavaScript, ReactJS, Python, Django projects etc.
 - 📫 How to reach me gurmeetsingh6175@gmail.com
-- 📫 LinkedIn : gurmeet-singh-1ab8691a9
+- 📫 LinkedIn : linkedin.com/in/gurmeet-singh-1ab8691a9
 - Address : Meerut Uttar Pradesh.
 
 <!---
