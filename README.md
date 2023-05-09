@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @kalsaniya
+- 👋 Hi, I’m Gurmeet Singh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently Learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on some basic JavaScript, HTML, CSS, JavaScript, ReactJS, Python, Django projects etc.
 - 📫 How to reach me gurmeetsingh6175@gmail.com
 - 📫 LinkedIn : https://www.linkedin.com/in/gurmeet-singh-1ab8691a9/
-- Address : Meerut Uttar Pradesh.
+- Address : Meerut, Uttar Pradesh.
 - PORTFOLIO : https://kalsaniya.github.io/
 
 <!---
