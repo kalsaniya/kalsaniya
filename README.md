@@ -1,5 +1,5 @@
 👋 Hello, I'm Gurmeet Singh,
-    a passionate Full Stack Developer with a focus on creating robust and dynamic web applications. 👨‍💻
+    a passionate Frontend Web Developer with a focus on creating robust and dynamic web applications. 👨‍💻
 
 💡 As a tech enthusiast,
     I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack, leveraging its powerful components to craft seamless and responsive user experiences.
@@ -22,4 +22,4 @@
 
 
 - 📫 Email    : gurmeetsingh6175@gmail.com
-- 📫 LinkedIn : gurmeet-singh-1ab8691a9
+- 📫 LinkedIn : gurmeet-singh-kalsaniya
